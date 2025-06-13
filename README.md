@@ -13,5 +13,3 @@ A Java-based console application that simulates a real-time AI traffic signal sy
 - Core OOP principles
 - Data Structures (ArrayList)
 - CLI (Scanner)
-
-## 🧠 Sample Output
